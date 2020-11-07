@@ -1,0 +1,73 @@
+ELO Rank,College,Points,Wins,Losses,BestWin_1,BestWin_2,BestWin_3,WorstLoss_1,WorstLoss_2,WorstLoss_3,Nationals Results,Significant Difference
+1,Harvard University,1244.727832,17,0,(2) Trinity College,"(3) Pennsylvania, University of","(3) Pennsylvania, University of",,,,1,0
+2,Trinity College,1203.809428,19,2,"(3) Pennsylvania, University of",(4) Princeton University,(4) Princeton University,"(3) Pennsylvania, University of",(1) Harvard University,,3,-1
+3,"Pennsylvania, University of",1203.753562,13,3,(2) Trinity College,(4) Princeton University,(7) Yale University,(2) Trinity College,(1) Harvard University,(1) Harvard University,2,1
+4,Princeton University,1165.779491,11,6,"(5) Virginia, University of","(6) Rochester, University of","(6) Rochester, University of",(9) Columbia University,"(3) Pennsylvania, University of",(2) Trinity College,4,0
+5,"Virginia, University of",1160.243623,19,5,"(6) Rochester, University of",(7) Yale University,(9) Columbia University,(7) Yale University,(4) Princeton University,(2) Trinity College,5,0
+6,"Rochester, University of",1155.60279,11,6,(7) Yale University,(8) Drexel University,(9) Columbia University,(8) Drexel University,"(5) Virginia, University of",(4) Princeton University,6,0
+7,Yale University,1154.348949,10,8,"(5) Virginia, University of",(8) Drexel University,(9) Columbia University,(8) Drexel University,"(6) Rochester, University of","(5) Virginia, University of",7,0
+8,Drexel University,1149.160136,11,9,"(6) Rochester, University of",(7) Yale University,(9) Columbia University,(13) Franklin and Marshall College,(11) Dartmouth College,(7) Yale University,8,0
+9,Columbia University,1148.592185,10,8,(4) Princeton University,(10) Western Ontario,(11) Dartmouth College,(14) George Washington University,(8) Drexel University,(7) Yale University,9,0
+10,Western Ontario,1147.064577,11,3,(11) Dartmouth College,(12) Cornell University,(13) Franklin and Marshall College,(9) Columbia University,"(6) Rochester, University of","(5) Virginia, University of",11,-1
+11,Dartmouth College,1141.698468,7,9,(8) Drexel University,(12) Cornell University,(14) George Washington University,(12) Cornell University,(10) Western Ontario,(9) Columbia University,12,-1
+12,Cornell University,1139.930142,7,11,(11) Dartmouth College,(13) Franklin and Marshall College,(13) Franklin and Marshall College,(11) Dartmouth College,(10) Western Ontario,(9) Columbia University,10,2
+13,Franklin and Marshall College,1136.342635,20,6,(8) Drexel University,(15) Brown University,(16) Williams College,(12) Cornell University,(12) Cornell University,(10) Western Ontario,13,0
+14,George Washington University,1128.046716,10,13,(9) Columbia University,(16) Williams College,(17) MIT,(15) Brown University,(12) Cornell University,(11) Dartmouth College,15,-1
+15,Brown University,1127.331566,7,10,(14) George Washington University,(16) Williams College,(17) MIT,(13) Franklin and Marshall College,(12) Cornell University,(11) Dartmouth College,14,1
+16,Williams College,1098.272504,17,9,(18) Middlebury College,(18) Middlebury College,(19) Bates College,(17) MIT,(15) Brown University,(14) George Washington University,17,-1
+17,MIT,1096.450366,14,10,(16) Williams College,(18) Middlebury College,(19) Bates College,(23) Amherst College,(15) Brown University,(14) George Washington University,16,1
+18,Middlebury College,1083.506586,9,11,(19) Bates College,(20) Naval Academy,(21) Colby College,(20) Naval Academy,(19) Bates College,(17) MIT,18,0
+19,Bates College,1082.718725,12,8,(18) Middlebury College,(20) Naval Academy,(21) Colby College,(22) Bowdoin College Men,(18) Middlebury College,(17) MIT,19,0
+20,Naval Academy,1079.705026,9,15,(18) Middlebury College,(22) Bowdoin College Men,(25) Dickinson College Men,(19) Bates College,(18) Middlebury College,(17) MIT,20,0
+21,Colby College,1073.363113,12,9,(22) Bowdoin College Men,(22) Bowdoin College Men,(23) Amherst College,(22) Bowdoin College Men,(19) Bates College,(19) Bates College,21,0
+22,Bowdoin College Men,1070.204291,11,10,(19) Bates College,(21) Colby College,(23) Amherst College,(24) Tufts University Men,(23) Amherst College,(21) Colby College,22,0
+23,Amherst College,1069.442761,9,10,(17) MIT,(22) Bowdoin College Men,(24) Tufts University Men,(24) Tufts University Men,(22) Bowdoin College Men,(21) Colby College,23,0
+24,Tufts University Men,1062.353503,7,14,(22) Bowdoin College Men,(23) Amherst College,(27) Connecticut College,(25) Dickinson College Men,(23) Amherst College,(23) Amherst College,24,0
+25,Dickinson College Men,1061.961303,9,13,(24) Tufts University Men,(26) Hamilton College,(26) Hamilton College,(22) Bowdoin College Men,(21) Colby College,(20) Naval Academy,25,0
+26,Hamilton College,1031.512759,11,11,(27) Connecticut College,(28) Wesleyan University,(28) Wesleyan University,(33) St. Lawrence University,(27) Connecticut College,(25) Dickinson College Men,26,0
+27,Connecticut College,1029.620656,10,11,(26) Hamilton College,(30) Chatham University,(32) Haverford College,(28) Wesleyan University,(26) Hamilton College,(25) Dickinson College Men,27,0
+28,Wesleyan University,1025.293984,10,12,(27) Connecticut College,"(29) California-Berkeley, University of",(30) Chatham University,(31) Boston College,(30) Chatham University,(26) Hamilton College,29,-1
+29,"California-Berkeley, University of",1023.945703,9,2,(33) St. Lawrence University,(34) Fordham University,(35) New York University,(28) Wesleyan University,(25) Dickinson College Men,,30,-1
+30,Chatham University,1021.449748,13,8,(28) Wesleyan University,(34) Fordham University,(36) Hobart College,(28) Wesleyan University,(27) Connecticut College,(26) Hamilton College,28,2
+31,Boston College,1019.212745,5,3,(28) Wesleyan University,(37) Northeastern University,"(41) Chicago, University of",(34) Fordham University,(24) Tufts University Men,(17) MIT,0,31
+32,Haverford College,1015.831244,11,8,(33) St. Lawrence University,(34) Fordham University,(36) Hobart College,(33) St. Lawrence University,(28) Wesleyan University,(28) Wesleyan University,31,1
+33,St. Lawrence University,1015.625455,5,22,(26) Hamilton College,(32) Haverford College,(36) Hobart College,(36) Hobart College,(32) Haverford College,"(29) California-Berkeley, University of",32,1
+34,Fordham University,1012.070118,22,9,(31) Boston College,(35) New York University,(35) New York University,(36) Hobart College,(35) New York University,(32) Haverford College,33,1
+35,New York University,1006.642929,10,5,(34) Fordham University,(37) Northeastern University,(38) Denison University,(34) Fordham University,(34) Fordham University,(34) Fordham University,35,0
+36,Hobart College,1006.217423,7,13,(33) St. Lawrence University,(34) Fordham University,(37) Northeastern University,(40) Bard College,(34) Fordham University,(33) St. Lawrence University,34,2
+37,Northeastern University,994.5473354,9,11,(38) Denison University,(39) Bucknell University,(40) Bard College,(39) Bucknell University,(36) Hobart College,(35) New York University,36,1
+38,Denison University,990.5133017,9,13,(39) Bucknell University,(40) Bard College,(40) Bard College,(39) Bucknell University,(39) Bucknell University,(37) Northeastern University,37,1
+39,Bucknell University,988.4406669,8,10,(37) Northeastern University,(38) Denison University,(38) Denison University,(42) Boston University,(40) Bard College,(38) Denison University,42,-3
+40,Bard College,985.8422646,7,11,(36) Hobart College,(39) Bucknell University,(44) Washington University in St. Louis,(44) Washington University in St. Louis,(38) Denison University,(38) Denison University,40,0
+41,"Chicago, University of",984.7052148,7,5,(44) Washington University in St. Louis,(44) Washington University in St. Louis,(51) Northwestern University,(38) Denison University,(37) Northeastern University,(35) New York University,38,3
+42,Boston University,982.6373061,7,10,(39) Bucknell University,(43) Georgetown University,(45) Stanford University,(43) Georgetown University,(38) Denison University,(37) Northeastern University,41,1
+43,Georgetown University,978.3655194,8,7,(42) Boston University,"(46) Richmond, University of","(46) Richmond, University of",(42) Boston University,(39) Bucknell University,(38) Denison University,43,0
+44,Washington University in St. Louis,977.8268763,5,6,(40) Bard College,"(46) Richmond, University of","(48) North Carolina-Chapel Hill, University of","(41) Chicago, University of","(41) Chicago, University of",(40) Bard College,39,5
+45,Stanford University,960.8646057,4,8,"(48) North Carolina-Chapel Hill, University of",(51) Northwestern University,(51) Northwestern University,(42) Boston University,(39) Bucknell University,(37) Northeastern University,45,0
+46,"Richmond, University of",946.4907879,10,7,"(48) North Carolina-Chapel Hill, University of","(48) North Carolina-Chapel Hill, University of",(52) Duke University,"(48) North Carolina-Chapel Hill, University of",(44) Washington University in St. Louis,(43) Georgetown University,44,2
+47,Clark University,946.4171234,1,2,(69) Siena College,,,(70) Babson College,(37) Northeastern University,,0,47
+48,"North Carolina-Chapel Hill, University of",941.8060796,6,8,"(46) Richmond, University of",(52) Duke University,"(53) Michigan, University of","(46) Richmond, University of","(46) Richmond, University of",(45) Stanford University,46,2
+49,Lehigh University,941.5030273,3,5,(55) Johns Hopkins University,(64) Swarthmore College,(67) Lafayette College,(42) Boston University,(38) Denison University,(35) New York University,49,0
+50,Vassar College,935.7703146,6,20,(57) Colgate University,(57) Colgate University,(64) Swarthmore College,(43) Georgetown University,(42) Boston University,(40) Bard College,50,0
+51,Northwestern University,921.0834593,5,8,"(53) Michigan, University of","(53) Michigan, University of","(53) Michigan, University of","(54) Notre Dame, University of","(53) Michigan, University of",(45) Stanford University,47,4
+52,Duke University,918.9326629,5,4,(55) Johns Hopkins University,(58) College of William and Mary,(59) Sewanee: University of the South,"(48) North Carolina-Chapel Hill, University of","(46) Richmond, University of","(46) Richmond, University of",51,1
+53,"Michigan, University of",917.1399366,6,5,(51) Northwestern University,"(54) Notre Dame, University of",(56) Ohio St University,(51) Northwestern University,(51) Northwestern University,(51) Northwestern University,48,5
+54,"Notre Dame, University of",915.0776172,3,5,(51) Northwestern University,(62) Indiana University Bloomington,"(65) Wisconsin, University of","(53) Michigan, University of",(51) Northwestern University,(45) Stanford University,54,0
+55,Johns Hopkins University,899.3075123,4,9,(60) Carnegie Mellon University,(61) Vanderbilt University,"(63) Pittsburgh, University of",(52) Duke University,(49) Lehigh University,"(46) Richmond, University of",53,2
+56,Ohio St University,892.4328004,8,1,(62) Indiana University Bloomington,(62) Indiana University Bloomington,(62) Indiana University Bloomington,"(53) Michigan, University of",,,0,56
+57,Colgate University,891.6677726,2,4,(64) Swarthmore College,(67) Lafayette College,,(50) Vassar College,(50) Vassar College,(40) Bard College,55,2
+58,College of William and Mary,886.1238971,1,4,(71) Davidson College,,,(52) Duke University,"(48) North Carolina-Chapel Hill, University of","(46) Richmond, University of",0,58
+59,Sewanee: University of the South,880.7474128,0,3,,,,(52) Duke University,"(46) Richmond, University of",(44) Washington University in St. Louis,0,59
+60,Carnegie Mellon University,877.9700908,2,4,"(63) Pittsburgh, University of",(68) Xavier University,,(55) Johns Hopkins University,"(48) North Carolina-Chapel Hill, University of",(43) Georgetown University,0,60
+61,Vanderbilt University,867.8321951,1,3,(64) Swarthmore College,,,(55) Johns Hopkins University,(52) Duke University,"(46) Richmond, University of",0,61
+62,Indiana University Bloomington,857.6921011,3,7,"(65) Wisconsin, University of",(66) Kenyon College,(68) Xavier University,(56) Ohio St University,(56) Ohio St University,(56) Ohio St University,57,5
+63,"Pittsburgh, University of",855.8597288,3,4,(64) Swarthmore College,(66) Kenyon College,(68) Xavier University,(60) Carnegie Mellon University,(56) Ohio St University,(55) Johns Hopkins University,0,63
+64,Swarthmore College,832.1451404,1,14,(67) Lafayette College,,,"(63) Pittsburgh, University of",(61) Vanderbilt University,(57) Colgate University,56,8
+65,"Wisconsin, University of",823.6126245,0,4,,,,(62) Indiana University Bloomington,"(54) Notre Dame, University of","(53) Michigan, University of",0,65
+66,Kenyon College,823.3950479,1,4,(68) Xavier University,,,"(63) Pittsburgh, University of",(62) Indiana University Bloomington,(56) Ohio St University,0,66
+67,Lafayette College,808.0675409,1,8,(69) Siena College,,,(64) Swarthmore College,(57) Colgate University,(50) Vassar College,52,15
+68,Xavier University,790.6267511,0,8,,,,(66) Kenyon College,"(63) Pittsburgh, University of",(62) Indiana University Bloomington,58,10
+69,Siena College,781.6821347,1,6,"(72) Vermont, University of",,,(67) Lafayette College,(50) Vassar College,(47) Clark University,0,69
+70,Babson College,-3990.079846,1,0,(47) Clark University,,,,,,0,70
+71,Davidson College,-4149.91097,0,2,,,,"(48) North Carolina-Chapel Hill, University of",(58) College of William and Mary,,0,71
+72,"Vermont, University of",-4248.969076,0,1,,,,(69) Siena College,,,0,72

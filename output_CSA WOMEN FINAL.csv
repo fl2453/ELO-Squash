@@ -1,0 +1,49 @@
+Rank,College,Points,Wins,Losses,BestWin_1,BestWin_2,BestWin_3,WorstLoss_1,WorstLoss_2,WorstLoss_3,Nationals Results,Significant Difference
+1,Harvard University,1279.372103,14,0,(2) Princeton University,(3) Yale University,(4) Trinity College,,,,1,0
+2,Princeton University,1248.591878,12,1,(3) Yale University,(4) Trinity College,"(5) Pennsylvania, University of",(1) Harvard University,,,2,0
+3,Yale University,1215.842232,12,3,(4) Trinity College,"(5) Pennsylvania, University of",(6) Stanford University,(7) Columbia University,(2) Princeton University,(1) Harvard University,3,0
+4,Trinity College,1215.842106,14,3,"(5) Pennsylvania, University of",(6) Stanford University,(7) Columbia University,(3) Yale University,(2) Princeton University,(1) Harvard University,4,0
+5,"Pennsylvania, University of",1204.708981,8,5,(7) Columbia University,(8) Drexel University,(9) Dartmouth College,(6) Stanford University,(4) Trinity College,(3) Yale University,8,-3
+6,Stanford University,1203.560804,6,5,"(5) Pennsylvania, University of",(7) Columbia University,(11) Cornell University,(8) Drexel University,(4) Trinity College,(3) Yale University,6,0
+7,Columbia University,1199.997992,9,6,(3) Yale University,(9) Dartmouth College,"(10) Virginia, University of",(8) Drexel University,(6) Stanford University,"(5) Pennsylvania, University of",5,2
+8,Drexel University,1199.996958,11,6,(6) Stanford University,(7) Columbia University,"(10) Virginia, University of",(9) Dartmouth College,"(5) Pennsylvania, University of",(4) Trinity College,7,1
+9,Dartmouth College,1195.779664,6,6,(8) Drexel University,(11) Cornell University,(12) Brown University,(7) Columbia University,"(5) Pennsylvania, University of",(4) Trinity College,10,-1
+10,"Virginia, University of",1176.755842,14,6,(11) Cornell University,(12) Brown University,(13) Williams College,(8) Drexel University,(7) Columbia University,(4) Trinity College,9,1
+11,Cornell University,1159.049036,5,10,(12) Brown University,(14) George Washington University,(18) Franklin and Marshall College,"(10) Virginia, University of",(9) Dartmouth College,(8) Drexel University,11,0
+12,Brown University,1143.014461,6,8,(13) Williams College,(14) George Washington University,(15) Middlebury College,(11) Cornell University,"(10) Virginia, University of",(9) Dartmouth College,12,0
+13,Williams College,1127.335421,16,7,(14) George Washington University,(15) Middlebury College,(16) Bates College,(12) Brown University,"(10) Virginia, University of",(9) Dartmouth College,13,0
+14,George Washington University,1110.700235,7,14,(15) Middlebury College,(18) Franklin and Marshall College,(23) Dickinson College,(13) Williams College,(12) Brown University,(11) Cornell University,14,0
+15,Middlebury College,1095.020678,8,8,(16) Bates College,(17) Amherst College,(17) Amherst College,(16) Bates College,(14) George Washington University,(13) Williams College,15,0
+16,Bates College,1088.559548,12,4,(15) Middlebury College,(18) Franklin and Marshall College,(19) Tufts University,(17) Amherst College,(15) Middlebury College,(13) Williams College,16,0
+17,Amherst College,1088.081344,11,6,(16) Bates College,(19) Tufts University,(19) Tufts University,(15) Middlebury College,(15) Middlebury College,(13) Williams College,17,0
+18,Franklin and Marshall College,1070.441688,11,9,(19) Tufts University,(20) Wesleyan University,(21) Bowdoin College,(16) Bates College,(15) Middlebury College,(14) George Washington University,18,0
+19,Tufts University,1054.682343,8,11,(20) Wesleyan University,(20) Wesleyan University,(21) Bowdoin College,(18) Franklin and Marshall College,(17) Amherst College,(17) Amherst College,19,0
+20,Wesleyan University,1035.901773,12,8,(21) Bowdoin College,(21) Bowdoin College,(22) William Smith College,(19) Tufts University,(19) Tufts University,(18) Franklin and Marshall College,20,0
+21,Bowdoin College,1016.21653,8,10,(23) Dickinson College,(25) Hamilton College,(25) Hamilton College,(20) Wesleyan University,(20) Wesleyan University,(19) Tufts University,22,-1
+22,William Smith College,1010.262691,15,3,(25) Hamilton College,(26) Connecticut College,(27) St. Lawrence University,(20) Wesleyan University,(17) Amherst College,(11) Cornell University,23,-1
+23,Dickinson College,1000.488478,6,13,(25) Hamilton College,(26) Connecticut College,(27) St. Lawrence University,(21) Bowdoin College,(19) Tufts University,(18) Franklin and Marshall College,21,2
+24,"Richmond, University of",987.199648,3,2,"(44) North Carolina-Chapel Hill, University of","(44) North Carolina-Chapel Hill, University of","(44) North Carolina-Chapel Hill, University of",(18) Franklin and Marshall College,"(10) Virginia, University of",,44,-20
+25,Hamilton College,984.2854583,8,9,(26) Connecticut College,(26) Connecticut College,(27) St. Lawrence University,(23) Dickinson College,(22) William Smith College,(21) Bowdoin College,24,1
+26,Connecticut College,965.3115504,10,11,(28) Mount Holyoke College,(29) Colby College,(29) Colby College,(25) Hamilton College,(25) Hamilton College,(23) Dickinson College,25,1
+27,St. Lawrence University,945.0272496,6,16,(29) Colby College,(30) Haverford College,(31) Georgetown University,(28) Mount Holyoke College,(25) Hamilton College,(23) Dickinson College,26,1
+28,Mount Holyoke College,943.7115552,4,14,(27) St. Lawrence University,(34) Vassar College,(37) Wellesley College,(29) Colby College,(26) Connecticut College,(25) Hamilton College,32,-4
+29,Colby College,943.4041217,2,13,(28) Mount Holyoke College,(34) Vassar College,,(27) St. Lawrence University,(26) Connecticut College,(26) Connecticut College,28,1
+30,Haverford College,930.2814789,8,7,(31) Georgetown University,(33) Bucknell University,(33) Bucknell University,(27) St. Lawrence University,(26) Connecticut College,(23) Dickinson College,29,1
+31,Georgetown University,915.0012271,7,3,(32) Boston College,(32) Boston College,(33) Bucknell University,(30) Haverford College,(27) St. Lawrence University,(14) George Washington University,27,4
+32,Boston College,891.9410965,4,4,(33) Bucknell University,(35) Northeastern University,(38) Colgate University,(35) Northeastern University,(31) Georgetown University,(31) Georgetown University,30,2
+33,Bucknell University,890.2104686,5,4,(34) Vassar College,(36) Denison University,(38) Colgate University,(32) Boston College,(31) Georgetown University,(30) Haverford College,31,2
+34,Vassar College,888.6873965,8,15,(35) Northeastern University,(36) Denison University,(38) Colgate University,(33) Bucknell University,(30) Haverford College,(30) Haverford College,34,0
+35,Northeastern University,886.590871,12,5,(32) Boston College,(37) Wellesley College,(37) Wellesley College,(34) Vassar College,(32) Boston College,(31) Georgetown University,33,2
+36,Denison University,861.8678236,5,4,(40) Washington University in St. Louis,(41) Fordham University,(45) New York University,(34) Vassar College,(33) Bucknell University,(30) Haverford College,35,1
+37,Wellesley College,861.3217607,8,4,(39) Boston University,(43) Bard College,"(44) North Carolina-Chapel Hill, University of",(35) Northeastern University,(35) Northeastern University,(28) Mount Holyoke College,38,-1
+38,Colgate University,848.8735642,5,5,(41) Fordham University,(43) Bard College,"(44) North Carolina-Chapel Hill, University of",(35) Northeastern University,(34) Vassar College,(33) Bucknell University,39,-1
+39,Boston University,839.860348,5,7,(41) Fordham University,(41) Fordham University,(42) Johns Hopkins University,(37) Wellesley College,(35) Northeastern University,(35) Northeastern University,36,3
+40,Washington University in St. Louis,837.5623505,4,3,(41) Fordham University,(43) Bard College,(45) New York University,(36) Denison University,(35) Northeastern University,(22) William Smith College,37,3
+41,Fordham University,811.2442658,6,11,(43) Bard College,"(44) North Carolina-Chapel Hill, University of","(44) North Carolina-Chapel Hill, University of",(40) Washington University in St. Louis,(39) Boston University,(39) Boston University,40,1
+42,Johns Hopkins University,807.19847,0,5,,,,(39) Boston University,(33) Bucknell University,(31) Georgetown University,45,-3
+43,Bard College,787.1657573,2,15,"(46) Rochester, University of",(47) Smith College,,(41) Fordham University,(40) Washington University in St. Louis,(39) Boston University,41,2
+44,"North Carolina-Chapel Hill, University of",774.6264081,0,9,,,,(41) Fordham University,(41) Fordham University,(38) Colgate University,43,1
+45,New York University,771.8383173,0,8,,,,(41) Fordham University,(41) Fordham University,(41) Fordham University,47,-2
+46,"Rochester, University of",760.8289413,1,7,(47) Smith College,,,(43) Bard College,(40) Washington University in St. Louis,(38) Colgate University,42,4
+47,Smith College,730.0481008,0,10,,,,"(46) Rochester, University of",(43) Bard College,(37) Wellesley College,46,1
+48,"California-Berkeley, University of",-4004.291019,0,1,,,,(6) Stanford University,,,0,48
